@@ -39,6 +39,6 @@ The project uses the synthetic PaySim mobile money transaction dataset. The data
 The model was trained using synthetic data and has not been validated on real Zimbabwean mobile money transactions. Predictions indicate potential risk and do not prove fraud.
 
 ## Author
-Student Name: [Enter Your Name]
+Student Name: [FIDELIS SHOKO]
 
-Institution: [Enter Your Institution]
+Institution: [GREAT ZIMBABWE UNIVERSITY]
